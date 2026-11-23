@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    File:     android/app/src/main/res/xml/network_security_config.xml
+    Author:   mrbacco04@gmail.com
+    GitHub:   https://github.com/mrbacco
+    Created:  2026-10-20
+    Updated:  2026-11-23
+    Project:  SYNDICATE
+    License:  Proprietary, all rights reserved (see LICENSE)
+-->
+<!-- HTTPS only: the app only talks to lottery.ie. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+</network-security-config>

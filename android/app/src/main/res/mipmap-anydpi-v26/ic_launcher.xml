@@ -1,0 +1,15 @@
+<!--
+    File:     android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+    Author:   mrbacco04@gmail.com
+    GitHub:   https://github.com/mrbacco
+    Created:  2026-10-20
+    Updated:  2026-11-23
+    Project:  SYNDICATE
+    License:  Proprietary, all rights reserved (see LICENSE)
+-->
+<!-- The BAC logo from mrbacco.com: black ink on white. The same artwork is the themed (monochrome) icon. -->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/ic_launcher_background" />
+    <foreground android:drawable="@mipmap/ic_launcher_foreground" />
+    <monochrome android:drawable="@mipmap/ic_launcher_foreground" />
+</adaptive-icon>

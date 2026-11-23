@@ -1,0 +1,32 @@
+SYNDICATE
+Copyright (c) 2026 mrbacco (https://github.com/mrbacco). All rights reserved.
+
+This software and its source code, documentation, images and other files
+(the "Software") are the property of the copyright holder.
+
+The source code is published so that people can read it. Publishing it does
+not grant a license to use it. Except where a separate written agreement
+signed by the copyright holder says otherwise, you may not:
+
+- copy, modify, merge, publish, distribute, sublicense or sell the Software
+  or any part of it;
+- build, run or distribute the Software or any work based on it;
+- use the Software or any part of it in another product or service.
+
+Viewing the source code on the website that hosts this repository, and
+making the temporary copies the website needs for that, is allowed.
+
+For a license to use the Software, contact the copyright holder at
+https://github.com/mrbacco.
+
+Third-party files keep their own licenses. These include the Gradle wrapper
+(android/gradlew, android/gradlew.bat, android/gradle/wrapper/; Apache
+License 2.0) and the Open Sans font (see android/app/licenses/OpenSans-OFL.txt;
+SIL Open Font License 1.1).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE.

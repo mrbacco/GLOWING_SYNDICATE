@@ -1,0 +1,12 @@
+<!--
+    File:     android/app/src/main/res/values/strings.xml
+    Author:   mrbacco04@gmail.com
+    GitHub:   https://github.com/mrbacco
+    Created:  2026-10-20
+    Updated:  2026-11-23
+    Project:  SYNDICATE
+    License:  Proprietary, all rights reserved (see LICENSE)
+-->
+<resources>
+    <string name="app_name">Syndicate</string>
+</resources>
